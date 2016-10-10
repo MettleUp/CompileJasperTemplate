@@ -1,0 +1,6 @@
+[
+{
+	"keys": ["super+shift+j"],
+	"command": "compile_jasper_template"
+}
+]

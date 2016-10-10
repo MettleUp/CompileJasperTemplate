@@ -1,0 +1,7 @@
+[
+{
+    "id" : "compileJasperTemplate",
+    "caption" : "Compile Jasper Template",
+    "command" : "compile_jasper_template"
+}
+]

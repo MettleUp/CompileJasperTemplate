@@ -1,0 +1,29 @@
+{
+  "name": "compilejaspertemplate",
+  "version": "0.1.0",
+  "description": "Sublime Text 3 package for compiling JRXML files into Jasper templates",
+  "main": "CompileJasperTemplate.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MettleUp/CompileJasperTemplate.git"
+  },
+  "keywords": [
+    "jasper",
+    "jrxml",
+    "sublime",
+    "text",
+    "sublime",
+    "text",
+    "3",
+    "package"
+  ],
+  "author": "Mettle, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MettleUp/CompileJasperTemplate/issues"
+  },
+  "homepage": "https://github.com/MettleUp/CompileJasperTemplate#readme"
+}
